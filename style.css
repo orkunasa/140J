@@ -1,0 +1,23 @@
+.main_table {
+width:85%;
+margin:auto;
+border:0;
+}
+
+body, td, textarea, select, blockquote{font: 70%/170% "Trebuchet MS", Tahoma, Arial;}
+
+td {width:auto;height:auto;}
+
+.title {
+text-decoration:underline;
+
+}
+
+.tweet, .addr {
+width:400px;
+height:auto;
+}
+
+.line {border: 1px dashed #000;
+
+}
